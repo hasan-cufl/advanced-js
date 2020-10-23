@@ -14,6 +14,7 @@ console.log(square)
 function square(element){
     return element * element;
 }
+number.map(square);
      // this function can be used inside map or can be declare the function in map.
      // first way to use map
      // inside map 3 parameters can be used. 1: element, 2: index, 3: array.
